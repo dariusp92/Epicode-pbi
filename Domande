@@ -1,0 +1,25 @@
+Domande Cap 1.1
+
+1) Cosa bisogna fare per scegliere i connettori giusti?
+Bisogna sapere quali sono le nostre fonti dati( Pag. 23)
+
+2)Cosa succede se clicchi Trasforma Dati?
+Si apre l’editor di Power Query (Pag.24)
+
+3)Descrivere il procedimento per importare dati da una cartella.
+Power query/ Nuova origine/Altro/Recupera dati/Cartella/Connetti/cerca/seleziona cartella/ok
+(Pag.26)
+
+4)Quando ci si connette ad una cartella, se non abbiamo specificato il tipo di file , Power Query cosa determina automaticamente? 
+ha determinato automaticamente il tipo di file e ha applicato 
+le trasformazioni ritenute appropriate (pag.27)
+
+5)come si verificano le dipendenze delle query?
+selezionando “dipendenze” dalla scheda visualizza (pag.28)
+
+da Davide Gammella a tutti i presenti a questa sessione:    12:58 PM
+é possibile modificare le impostazioni associate ad un'origine dati? 
+da Davide Gammella a tutti i presenti a questa sessione:    12:58 PM
+risposta: si da impostazioni origine dati
+da Davide Gammella a tutti i presenti a questa sessione:    12:58 PM
+pag 29
